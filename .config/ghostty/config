@@ -1,0 +1,8 @@
+theme = tokyonight-storm
+font-family = Meslo LGS Nerd Font Mono
+
+font-size = 15
+background-opacity = 0.9
+
+keybind = super+r=reload_config
+keybind = super+t=new_tab
